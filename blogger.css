@@ -1,0 +1,38 @@
+.main .PopularPosts,
+  .page_body .centered>.footer,
+  #comments,
+  .post-bottom,
+  .post-header,
+  .post-share-buttons,
+  .post-title,
+  .centered-top-container,
+  .bg-photo-overlay,
+  .bg-photo-container,
+  .collapsed-header .centered-top-placeholder {
+  	display: none;
+  }
+  
+  .post-body,
+  .page_body .widget {
+  	margin: 0;
+  }
+  
+  .Blog .blog-posts .post-outer-container,
+  .Blog .blog-posts .post-outer-container .post-outer,
+  .centered-bottom,
+  .page_body .centered {
+  	padding: 0;
+  }
+  
+  .page_body .centered {
+  	max-width: unset;
+  }
+  
+  .post-body {
+  	line-height: unset;
+  }
+  
+  .Blog .blog-posts .post-outer-container {
+	background: unset;
+    box-shadow: unset;
+  }
